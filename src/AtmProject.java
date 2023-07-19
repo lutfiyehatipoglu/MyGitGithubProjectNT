@@ -20,6 +20,7 @@ public class AtmProject {
 
         System.out.println();
         //localde degisiklik yaptim
+        //remoteda degisiklik yaptim
     }
 
 }
