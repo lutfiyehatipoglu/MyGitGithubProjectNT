@@ -14,6 +14,9 @@ public class AtmProject {
 
         System.out.println("bir kisim kodlar");
         //ltf2
+
+        System.out.println();
+        //ltf3
     }
 
 }
