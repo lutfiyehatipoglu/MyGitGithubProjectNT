@@ -19,6 +19,7 @@ public class AtmProject {
         //ltf3
 
         System.out.println();
+        //localde degisiklik yaptim
     }
 
 }
