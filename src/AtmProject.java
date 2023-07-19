@@ -11,6 +11,9 @@ public class AtmProject {
 
         System.out.println("lütfiye branchi kodlarini yazdi.");
         //version ltf1
+
+        System.out.println("bir kisim kodlar");
+        //ltf2
     }
 
 }
